@@ -14,7 +14,7 @@
   - Probability
     - [Introduction to Probability](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view)(EBook)
     - [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)(Videos)
-    - Statistics & Probabilities(https://www.khanacademy.org/math/statistics-probability)
+    - [Statistics & Probabilities](https://www.khanacademy.org/math/statistics-probability)
   - [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
   - Hypothesis testing
   - Logarithm
@@ -48,13 +48,10 @@
 
 
 
-## Resouces
-The Best Roadmap to be Expert in ML in 5 Steps!
-https://www.kaggle.com/general/217218
+## # Resouces
+[The Best Roadmap to be Expert in ML in 5 Steps!](https://www.kaggle.com/general/217218)
 
-Roadmap to Data scientist
-https://www.kaggle.com/discussions/getting-started/410937#2263011
+[Roadmap to Data scientist](https://www.kaggle.com/discussions/getting-started/410937#2263011)
 
-Data Science Roadmap – How to become a Data Scientist? (6 month self study plan)
-https://www.machinelearningplus.com/machine-learning/data-science-roadmap-how-to-become-a-data-scientist/
+[Data Science Roadmap – How to become a Data Scientist? (6 month self study plan)](https://www.machinelearningplus.com/machine-learning/data-science-roadmap-how-to-become-a-data-scientist/)
 
