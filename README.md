@@ -25,8 +25,7 @@
   - Python
     - [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)(Videos)
     - [Full Course for Beginners FreeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw)(Videos)
-    - [Intro to Python for CS and Data Science
-   more in OOP](https://drive.google.com/file/d/1rXkYFjw1iKbXCra_B4Ykm0AMRgo6v93w/view?fbclid=IwAR2lg9omGaAsG3g1ZhHQHja8_uxkZ7QddnOUSxfoceRXShU1V_bl4V63xCQ)(EBook)
+    - [Intro to Python for CS and Data Science more in OOP](https://drive.google.com/file/d/1rXkYFjw1iKbXCra_B4Ykm0AMRgo6v93w/view?fbclid=IwAR2lg9omGaAsG3g1ZhHQHja8_uxkZ7QddnOUSxfoceRXShU1V_bl4V63xCQ)(EBook)
   - R
     - [Introduction to R (Datacamp)](https://www.datacamp.com/courses/free-introduction-to-r)
     - [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)(EBook)
